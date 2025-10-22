@@ -1,2 +1,1 @@
-# portfolio-banco-de-dados
-Portfólio de estudos e projetos SQL e Banco de Dados
+Neste projeto tera do básico ao avaçado todo tipo de conceito usado em banco de dados, tanto como comandos, regras de normalização, tunning, regras, backup, queries (consultas) e dentre outros...
